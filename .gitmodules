@@ -1,0 +1,4 @@
+[submodule "problem-generator"]
+	path = problem-generator
+	url = https://github.com/tobiasvandriessel/problem-generator.git
+	branch = cpp_integration
